@@ -31,5 +31,6 @@ public class Student
     private String stuName;
     private int stuID;
     private String changes;
+    private String testFetch;
     
 }
